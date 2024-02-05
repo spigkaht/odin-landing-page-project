@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: #1F2937;
+}
+
+.hero {
+  background-color: #1F2937;
+}
+
+.body-top {
+}
+
+.body-middle {
+  background-color: #E5E7EB;
+}
+
+.body-bottom {
+}
+
+.footer {
+  background-color: #1F2937;
+}
